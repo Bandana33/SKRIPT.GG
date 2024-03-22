@@ -13,3 +13,14 @@
 ![imggg](https://skript.gg/logo512.png)
 
 ![imggg](https://i.postimg.cc/QdSyZC23/Script.png)
+
+##Main features
+
+- ESP
+- Aimbot
+- Money drop
+- FiveM Spoofer New*
+- Stream Proof
+- Lua Executor
+- Dumper
+- Resource Blocker.
