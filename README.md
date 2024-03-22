@@ -23,4 +23,4 @@
 - Stream Proof
 - Lua Executor
 - Dumper
-- Resource Blocker.
+- Resource Blocker
