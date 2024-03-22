@@ -14,7 +14,7 @@
 
 ![imggg](https://i.postimg.cc/QdSyZC23/Script.png)
 
-##Main features
+## Main features
 
 - ESP
 - Aimbot
